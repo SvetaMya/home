@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
